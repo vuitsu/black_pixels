@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open('Image path')
+img = Image.open('REPLACE THIS WITH YOUR FILE PATH')
 
 img = img.convert('L')
 
